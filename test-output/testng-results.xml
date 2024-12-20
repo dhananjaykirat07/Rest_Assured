@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-12-20T21:14:21 IST" name="API Tests Suite" finished-at="2024-12-20T21:14:33 IST" duration-ms="11321">
+    <groups>
+    </groups>
+    <test started-at="2024-12-20T21:14:21 IST" name="API Tests" finished-at="2024-12-20T21:14:33 IST" duration-ms="11321">
+      <class name="com.api.tests.GetTests">
+        <test-method signature="testGetEndpoint()[pri:0, instance:com.api.tests.GetTests@ee86bcb]" started-at="2024-12-20T21:14:22 IST" name="testGetEndpoint" finished-at="2024-12-20T21:14:31 IST" duration-ms="9149" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetEndpoint -->
+      </class> <!-- com.api.tests.GetTests -->
+      <class name="com.api.tests.PutTests">
+        <test-method signature="testPutEndpoint()[pri:0, instance:com.api.tests.PutTests@42039326]" started-at="2024-12-20T21:14:22 IST" name="testPutEndpoint" finished-at="2024-12-20T21:14:31 IST" duration-ms="9324" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPutEndpoint -->
+      </class> <!-- com.api.tests.PutTests -->
+      <class name="com.api.tests.DeleteTests">
+        <test-method signature="testDeleteEndpoint()[pri:0, instance:com.api.tests.DeleteTests@4f9a2c08]" started-at="2024-12-20T21:14:22 IST" name="testDeleteEndpoint" finished-at="2024-12-20T21:14:31 IST" duration-ms="9337" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDeleteEndpoint -->
+      </class> <!-- com.api.tests.DeleteTests -->
+      <class name="com.api.tests.HeadTests">
+        <test-method signature="testHeadEndpoint()[pri:0, instance:com.api.tests.HeadTests@a87f8ec]" started-at="2024-12-20T21:14:31 IST" name="testHeadEndpoint" finished-at="2024-12-20T21:14:32 IST" duration-ms="1643" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHeadEndpoint -->
+      </class> <!-- com.api.tests.HeadTests -->
+      <class name="com.api.tests.PatchTests">
+        <test-method signature="testPatchEndpoint()[pri:0, instance:com.api.tests.PatchTests@33308786]" started-at="2024-12-20T21:14:22 IST" name="testPatchEndpoint" finished-at="2024-12-20T21:14:31 IST" duration-ms="9380" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPatchEndpoint -->
+      </class> <!-- com.api.tests.PatchTests -->
+      <class name="com.api.tests.PostTests">
+        <test-method signature="testPostEndpoint()[pri:0, instance:com.api.tests.PostTests@41709512]" started-at="2024-12-20T21:14:22 IST" name="testPostEndpoint" finished-at="2024-12-20T21:14:33 IST" duration-ms="11237" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPostEndpoint -->
+      </class> <!-- com.api.tests.PostTests -->
+    </test> <!-- API Tests -->
+  </suite> <!-- API Tests Suite -->
+</testng-results>
